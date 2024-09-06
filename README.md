@@ -4,11 +4,11 @@
 
 This repository contains various implementations and experiments in Natural Language Processing (NLP). The focus is on building and applying NLP models and techniques to solve real-world problems using Python and popular NLP libraries.
 
-![nlp image](https://github.com/user-attachments/assets/d1a5405b-0fb3-46e1-a784-7fe84a72b87a)
-
 ## 🌟 What is Natural Language Processing (NLP)?
 
-Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and human language. It involves the development of algorithms and models that enable computers to understand, interpret, and generate human language in a way that is both meaningful and useful. 
+Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and human language. It involves the development of algorithms and models that enable computers to understand, interpret, and generate human language in a way that is both meaningful and useful.
+
+
 ![nlp2](https://github.com/user-attachments/assets/d3681d81-9416-42de-aa35-a64ed12b5953)
 
 NLP combines computational linguistics, machine learning, and deep learning to address tasks such as:
